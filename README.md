@@ -3,9 +3,9 @@
 ## Идрисов Азат
 
 * Прошел курс обучения java на [Job4j](https://job4j.ru/)
-* Опыт работы с  Java - 1 год
+* Опыт работы с  Java - 3 года
 
-### Стек технологий: Java Core, Maven, JDBC, PostgreSQL, HTML5, CSS3, JS, JQuery, Servlet, JSP, Hibernate, Spring
+### Стек технологий: Java Core, Maven, JDBC, PostgreSQL, Hibernate, Spring
 
 ### Проекты:
 #### [Spring Boot Форум](https://github.com/AzatIdrisov/job4j_forum) - Spring Boot web-приложение. Форум с регистрацией и авторизацией(Spring Boot, Spring Security, Hibernate)
