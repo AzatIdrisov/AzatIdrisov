@@ -1,8 +1,6 @@
 ## Репозиторий Java разработчика
-
 ## Идрисов Азат
 
-* Прошел курс обучения java на [Job4j](https://job4j.ru/)
 * Опыт работы с  Java - 3 года
 
 ### Стек технологий: Java Core, Maven, JDBC, PostgreSQL, Hibernate, Spring
