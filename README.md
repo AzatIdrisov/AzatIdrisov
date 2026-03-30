@@ -1,9 +1,9 @@
 ## Репозиторий Java разработчика
 ## Идрисов Азат
 
-* Опыт работы с  Java - 3 года
+* Опыт работы с  Java - 6 лет
 
-### Стек технологий: Java Core, Maven, JDBC, PostgreSQL, Hibernate, Spring
+### Стек технологий: Java, Spring, Hibernate, Maven, JDBC, PostgreSQL
 
 ### Проекты:
 #### [Spring Boot Форум](https://github.com/AzatIdrisov/job4j_forum) - Spring Boot web-приложение. Форум с регистрацией и авторизацией(Spring Boot, Spring Security, Hibernate)
@@ -17,17 +17,3 @@
 #### [Grabber](https://github.com/AzatIdrisov/job4j_grabber) - парсер Java-вакансий с сайта Sql.ru(JDBC, PostgreSQL, Jsoup, Liquibase, Junit, Mockito)
 
 #### [Tracker](https://github.com/AzatIdrisov/job4j_tracker) - простое консольное CRUD-приложение(JDBC, PostgreSQL, Hibernate, Liquibase, Junit, Mockito)
-<!--
-**AzatIdrisov/AzatIdrisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
