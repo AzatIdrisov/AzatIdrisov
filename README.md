@@ -8,8 +8,6 @@
 ### Проекты:
 #### [Spring Boot Форум](https://github.com/AzatIdrisov/job4j_forum) - Spring Boot web-приложение. Форум с регистрацией и авторизацией(Spring Boot, Spring Security, Hibernate)
 
-[Запустить Spring Boot Форум на heroku](https://tranquil-hollows-70376.herokuapp.com/)
-
 #### [TODO-list](https://github.com/AzatIdrisov/job4j_todo_list) - TODO-list (Hibernate, AJAX, PostgreSQL, Servlet, JSP, Tomcat, JUnit, Mockito)
 
 #### [DreamJob](https://github.com/AzatIdrisov/job4j_dreamjob) - CRUD MVC веб-приложение(JDBC, PostgreSQL, Servlet, JSP, Tomcat, JUnit, Mockito)
